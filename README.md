@@ -27,8 +27,8 @@
 
 <!-- (https://stackoverflow.com/users/19797825/mohammed-kamaldeen) -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamaldeen-mohammed-123b89235?/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=website&logoColor=white)](https://drive.google.com/file/d/1HDP2iMyxtUONwkZRMMmzoxXocS4JFrDc/view)
-[![Portfolio2](https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=website&logoColor=white)](https://drive.google.com/file/d/1H-60MCXQ0zxYaDoW6MLrcx7pL8yMDXrC/view?usp=sharing)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=website&logoColor=white)](https://drive.google.com/file/d/1dP0RCKjhQpbE-gAeZiuwpFEbH1yae2f6/view?usp=sharing)
+[![Portfolio2](https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=website&logoColor=white)](https://drive.google.com/file/d/1BkwsaAr9LZb49PnDu6f6GAJg1Fuja5cO/view?usp=sharing)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mohammedkamaldeen204@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/kamaldeen_04/)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19797825/mohammed-kamaldeen)
