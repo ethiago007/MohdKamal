@@ -31,7 +31,7 @@
 [Portfolio](https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=website&logoColor=white)](https://aparnaportfoliofinal.netlify.app/)
 [Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 <!-- (https://mohammedkamaldeen204@gmail.com) -->
-[Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+[Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white(https://www.instagram.com/kamaldeen_04/)
 <!-- (https://www.instagram.com/kamaldeen_04/) -->
 
 
